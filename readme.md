@@ -1,6 +1,7 @@
 # GitHub User Activity CLI
 
-A simple Python CLI tool that fetches and displays recent GitHub activity for a given user using the GitHub Events API.
+
+A simple Python CLI tool that fetches and displays recent GitHub activity for a given user using the GitHub Events API.ref link=https://roadmap.sh/projects/github-user-activity
 
 ## Features
 - Fetches recent public GitHub events
