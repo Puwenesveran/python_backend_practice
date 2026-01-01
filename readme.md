@@ -16,7 +16,7 @@ A simple Python CLI tool that fetches and displays recent GitHub activity for a 
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/github-user-activity.git
+git clone https://github.com/puwenesveran/github-user-activity.git
 cd github-user-activity
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
